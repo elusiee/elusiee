@@ -22,7 +22,7 @@ Developing robust applications that interact with the backend part of Full Stack
 <p align="left">
 
 <a href="https://www.linkedin.com/in/emmanuel-elusie-8624b01a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emmanuel Elusie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elusieemmanuel?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/alonsome-emosnola/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Emmanuel Elusie's hackerrank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/elusieemmanuel?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Emmanuel Elusie's hackerrank" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
