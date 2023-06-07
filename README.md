@@ -7,7 +7,7 @@ Developing robust applications that interact with the backend part of Full Stack
 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerbhavar&label=Profile%20views&color=0e75b6&style=flat" alt="sameerbhavar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsome-emosnola&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelelusie" /> </p>
 
 - 🔭 I’m currently pursuing a **Back-End Developer**
 
@@ -44,7 +44,7 @@ Developing robust applications that interact with the backend part of Full Stack
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerbhavar&&theme=tokyonight" alt="sameerbhavar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonsome-emosnola&&theme=tokyonight" alt="emmanuelelusie" /></p>
 
 
 
