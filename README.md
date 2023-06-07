@@ -36,8 +36,8 @@ Developing robust applications that interact with the backend part of Full Stack
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/sameerbhavar/github-readme-stats"><img alt="Emmanuel Elusie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameerbhavar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sameerbhavar/github-readme-stats"><img alt="sameerbhavar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerbhavar&langs_count=8&count_private=true&layout=compact&exclude_repo=sameerbhavar.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/alonsome-emosnola/github-readme-stats"><img alt="Emmanuel Elusie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alonsome-emosnola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/alonsome-emosnola/github-readme-stats"><img alt="Emmanuel Elusie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsome-emosnola&langs_count=8&count_private=true&layout=compact&exclude_repo=alonsome-emosnola.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
