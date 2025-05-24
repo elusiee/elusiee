@@ -7,7 +7,7 @@ Developing robust applications that interact with the backend part of Full Stack
 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsome-emosnola&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelelusie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elusiee&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelelusie" /> </p>
 
 - 🔭 I’m currently pursuing a **Back-End Developer**
 
@@ -35,19 +35,19 @@ Developing robust applications that interact with the backend part of Full Stack
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/alonsome-emosnola/github-readme-stats"><img alt="Emmanuel Elusie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alonsome-emosnola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/alonsome-emosnola/github-readme-stats"><img alt="Emmanuel Elusie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsome-emosnola&langs_count=8&count_private=true&layout=compact&exclude_repo=alonsome-emosnola.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/elusiee/github-readme-stats"><img alt="Emmanuel Elusie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elusiee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/elusiee/github-readme-stats"><img alt="Emmanuel Elusie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elusiee&langs_count=8&count_private=true&layout=compact&exclude_repo=elusiee.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonsome-emosnola&&theme=tokyonight" alt="emmanuelelusie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elusiee&&theme=tokyonight" alt="emmanuelelusie" /></p>
 
 
 
-<a href="https://github.com/alonsome-emosnola/github-readme-activity-graph"><img alt="Emmanuel Elusie's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alonsome-emosnola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/elusiee/github-readme-activity-graph"><img alt="Emmanuel Elusie's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elusiee&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 
